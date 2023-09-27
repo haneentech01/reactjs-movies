@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/reactjs-movies/static/css/main.df320e08.css",
+    "main.js": "/reactjs-movies/static/js/main.cbc53be1.js",
+    "static/media/Capture.JPG": "/reactjs-movies/static/media/Capture.fc17c68cb7f2a7052a8e.JPG",
+    "static/media/logo (1).png": "/reactjs-movies/static/media/logo (1).800ff118d3628e8c8f7f.png",
+    "index.html": "/reactjs-movies/index.html",
+    "main.df320e08.css.map": "/reactjs-movies/static/css/main.df320e08.css.map",
+    "main.cbc53be1.js.map": "/reactjs-movies/static/js/main.cbc53be1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.df320e08.css",
+    "static/js/main.cbc53be1.js"
+  ]
+}
