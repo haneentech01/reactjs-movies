@@ -17,9 +17,7 @@ const NavBar = ({ search }) => {
           </Col>
 
           <Col xs="10" lg="11" className=" d-flex align-items-center">
-            <div className="search  w-100">
-              <i className="fa fa-search"></i>
-
+            <div className="search w-100">
               <input
                 onChange={(e) => {
                   onSearch(e.target.value);
